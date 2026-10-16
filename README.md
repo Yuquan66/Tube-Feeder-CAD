@@ -1,6 +1,6 @@
 # Tube Feeder CAD
 
-Updated SolidWorks CAD for the tube-sorting system, bowl feeder, Chengyi tube holder and robot integration. This repository is separate from the thesis and simulation repository.
+SolidWorks CAD for the tube-sorting system, bowl feeder, Chengyi tube holder and robot integration.
 
 ## Download and open
 
@@ -30,14 +30,6 @@ Useful subassemblies:
 
 ![Feeder, holder and robot](previews/feeder-holder-robot.png)
 
-## Package checks and scope
+## Credits
 
-The publication package was reopened in SolidWorks 2025 SP4 without missing-reference opening errors. The restored guide tube and floor-level robot placement were checked in the packaged assembly.
-
-This is an editable CAD design snapshot, not a certified manufacturing or robot-motion release. Full operating trajectories, tube feeding performance, structural strength and manufacturing tolerances are not validated by this package.
-
-The repository contains CAD files, previews and this opening guide. It does not contain the thesis, datasets, trained models, private correspondence or local automation scripts. `SHA256SUMS.txt` records the published CAD and preview file checksums.
-
-## Component attribution
-
-The tube-holder and gripper components were supplied through Chengyi and the project collaboration; the related public project is [Soft-Gripper-](https://github.com/a2597182460-lgtm/Soft-Gripper-). Robot, camera and other purchased-component models are retained from the source assembly. Original component authorship and rights are retained; this repository does not grant a new blanket licence for third-party CAD. Native files may retain their original CAD authoring metadata.
+Tube-holder and gripper components: Chengyi and the project collaboration, [Soft-Gripper-](https://github.com/a2597182460-lgtm/Soft-Gripper-).
