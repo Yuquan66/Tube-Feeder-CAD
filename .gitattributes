@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.png binary
+*.jpg binary
+*.zip binary

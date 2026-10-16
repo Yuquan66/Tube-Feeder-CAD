@@ -1,0 +1,17 @@
+# SolidWorks temporary and recovery files
+~$*
+*.sldbak
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.tmp
+*.log
+
+# Local files and credentials
+.env
+.env.*
+*.pem
+*.key
+Thumbs.db
+desktop.ini
+.DS_Store
